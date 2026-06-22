@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="game.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIXFOUR</title>
+</head>
+<body class="body">
+    <div class="main-div">
+    <div class="div1">
+        <label class="label1" >SIXFOUR - MINI WEB CRICKET GAME</label>
+    </div>
+    <div class="score">
+        <div class="logg">
+        <p>SCORE: <span id="score">0</span></p>
+        <p>BALLS LEFT: <span id="balls">12</span></p>
+        <p>WICKETS: <span id="wk">0</span></p>
+        </div>
+    </div>
+    <div class="match-log">
+        <h3 class="h3">LIVE STATS</h3>
+        <label id="logm" >Click play shot to play</label>
+    </div>
+        <div class="play">
+            <button onclick="playshot()" class="play-btn">
+                 PLAY SHOT
+            </button>
+            <button onclick="restart()" class="restart-btn">
+                RESTART GAME
+            </button>
+
+        </div>
+
+  </div>  
+  <script src="game.js"></script>    
+</body>
+</html>
