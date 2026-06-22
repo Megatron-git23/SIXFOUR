@@ -1,30 +1,34 @@
-🏏 SIXFOUR - Mini Web Cricket Game
+# 🏏 SIXFOUR - Mini Web Cricket Game
 
-<div align="center">"HTML" (https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
-"CSS" (https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
-"JavaScript" (https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+<div align="center">
 
-🎮 A Fun Browser-Based Cricket Game Built Using HTML, CSS & JavaScript
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge\&logo=javascript)
 
-</div>---
+### 🎮 A Fun Browser-Based Cricket Game Built Using HTML, CSS & JavaScript
 
-📖 About The Project
+</div>
 
-SIXFOUR is a simple and interactive cricket game where players try to score as many runs as possible within a limited number of balls.
+---
+
+## 📖 About The Project
+
+**SIXFOUR** is a simple and interactive cricket game where players try to score as many runs as possible within a limited number of balls.
 
 The game randomly generates cricket outcomes such as:
 
-- ⚪ Dot Ball
-- 🏃 Singles and Doubles
-- 🔥 Four
-- 🚀 Six
-- ❌ Wicket
+* ⚪ Dot Ball
+* 🏃 Singles and Doubles
+* 🔥 Four
+* 🚀 Six
+* ❌ Wicket
 
 Can you survive the innings and score the highest runs?
 
 ---
 
-✨ Features
+## ✨ Features
 
 ✅ Interactive gameplay
 
@@ -44,34 +48,37 @@ Can you survive the innings and score the highest runs?
 
 ---
 
-🎮 Game Rules
+## 🎮 Game Rules
 
-- Each player gets 12 balls.
-- Maximum 3 wickets are allowed.
-- Every click on Play Shot generates a random outcome.
-- Possible outcomes:
-  - 0 Runs
-  - 1 Run
-  - 2 Runs
-  - 4 Runs
-  - 6 Runs
-  - Wicket
-- The game ends when:
-  - All balls are completed, or
-  - Three wickets are lost.
+* Each player gets **12 balls**.
+* Maximum **3 wickets** are allowed.
+* Every click on **Play Shot** generates a random outcome.
+* Possible outcomes:
 
----
+  * 0 Runs
+  * 1 Run
+  * 2 Runs
+  * 4 Runs
+  * 6 Runs
+  * Wicket
+* The game ends when:
 
-🛠️ Built With
-
-- HTML5
-- CSS3
-- JavaScript (ES6)
+  * All balls are completed, or
+  * Three wickets are lost.
 
 ---
 
-📂 Project Structure
+## 🛠️ Built With
 
+* **HTML5**
+* **CSS3**
+* **JavaScript (ES6)**
+
+---
+
+## 📂 Project Structure
+
+```text
 SIXFOUR/
 │
 ├── game.html
@@ -81,76 +88,90 @@ SIXFOUR/
 │   └── images/
 │
 └── README.md
+```
 
 ---
 
-🚀 Getting Started
+## 🚀 Getting Started
 
-Clone the Repository
+### Clone the Repository
 
+```bash
 git clone https://github.com/your-username/SIXFOUR.git
+```
 
-Navigate to the Project Directory
+### Navigate to the Project Directory
 
+```bash
 cd SIXFOUR
+```
 
-Run the Project
+### Run the Project
 
-Open "game.html" in your favourite web browser.
-
----
-
-🎯 Gameplay Preview
-
-Action| Result
-Click Play Shot| Random cricket outcome
-Score Runs| Score increases
-Lose Wicket| Wicket count increases
-Click Restart| New game starts
+Open `game.html` in your favourite web browser.
 
 ---
 
-🔮 Future Enhancements
+## 🎯 Gameplay Preview
 
-- 🏆 High Score Leaderboard
-- 🔊 Sound Effects
-- 🎵 Background Music
-- 🌙 Dark Mode
-- 👥 Multiplayer Support
-- 🏏 Shot Selection System
-- 📊 Statistics Dashboard
+| Action              | Result                 |
+| ------------------- | ---------------------- |
+| Click **Play Shot** | Random cricket outcome |
+| Score Runs          | Score increases        |
+| Lose Wicket         | Wicket count increases |
+| Click Restart       | New game starts        |
 
 ---
 
-🤝 Contributing
+## 🔮 Future Enhancements
+
+* 🏆 High Score Leaderboard
+* 🔊 Sound Effects
+* 🎵 Background Music
+* 🌙 Dark Mode
+* 👥 Multiplayer Support
+* 🏏 Shot Selection System
+* 📊 Statistics Dashboard
+
+---
+
+## 🤝 Contributing
 
 Contributions are welcome!
 
 1. Fork the repository.
 2. Create your feature branch.
 
+```bash
 git checkout -b feature/NewFeature
+```
 
 3. Commit your changes.
 
+```bash
 git commit -m "Added New Feature"
+```
 
 4. Push to the branch.
 
+```bash
 git push origin feature/NewFeature
+```
 
 5. Open a Pull Request.
 
 ---
 
-⭐ Support
+## ⭐ Support
 
-If you like this project, please give it a ⭐ Star on GitHub.
+If you like this project, please give it a **⭐ Star** on GitHub.
 
 ---
 
-<div align="center">Made with ❤️ for Cricket Fans
+<div align="center">
 
-Happy Coding! 🏏
+### Made with ❤️ for Cricket Fans
+
+**Happy Coding! 🏏**
 
 </div>
