@@ -19,7 +19,7 @@
 The game randomly generates cricket outcomes such as:
 
 * ⚪ Dot Ball
-* 🏃 Singles and Doubles
+* 🏃 Singles , Doubles and Triples
 * 🔥 Four
 * 🚀 Six
 * ❌ Wicket
